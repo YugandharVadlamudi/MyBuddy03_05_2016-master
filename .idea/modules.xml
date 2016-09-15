@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MyBuddy03_05_2016-master.iml" filepath="$PROJECT_DIR$/MyBuddy03_05_2016-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/alekhyascreenapplication/alekhyascreenapplication.iml" filepath="$PROJECT_DIR$/alekhyascreenapplication/alekhyascreenapplication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/clientapp/clientapp.iml" filepath="$PROJECT_DIR$/clientapp/clientapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/customtitleapplication/customtitleapplication.iml" filepath="$PROJECT_DIR$/customtitleapplication/customtitleapplication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exoplayerapp/exoplayerapp.iml" filepath="$PROJECT_DIR$/exoplayerapp/exoplayerapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/googlemusicplayerapp/googlemusicplayerapp.iml" filepath="$PROJECT_DIR$/googlemusicplayerapp/googlemusicplayerapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/navigationdrawerapplication/navigationdrawerapplication.iml" filepath="$PROJECT_DIR$/navigationdrawerapplication/navigationdrawerapplication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/runtimepermissionapplication/runtimepermissionapplication.iml" filepath="$PROJECT_DIR$/runtimepermissionapplication/runtimepermissionapplication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shareelementtransitionapp/shareelementtransitionapp.iml" filepath="$PROJECT_DIR$/shareelementtransitionapp/shareelementtransitionapp.iml" />
+    </modules>
+  </component>
+</project>

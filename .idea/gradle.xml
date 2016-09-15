@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="LOCAL" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleHome" value="C:\Users\Kiran\Desktop\android-studio\gradle\gradle-2.14.1" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/alekhyascreenapplication" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/clientapp" />
+            <option value="$PROJECT_DIR$/customtitleapplication" />
+            <option value="$PROJECT_DIR$/exoplayerapp" />
+            <option value="$PROJECT_DIR$/googlemusicplayerapp" />
+            <option value="$PROJECT_DIR$/navigationdrawerapplication" />
+            <option value="$PROJECT_DIR$/runtimepermissionapplication" />
+            <option value="$PROJECT_DIR$/shareelementtransitionapp" />
+          </set>
+        </option>
+        <option name="myModules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/alekhyascreenapplication" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/clientapp" />
+            <option value="$PROJECT_DIR$/customtitleapplication" />
+            <option value="$PROJECT_DIR$/exoplayerapp" />
+            <option value="$PROJECT_DIR$/googlemusicplayerapp" />
+            <option value="$PROJECT_DIR$/navigationdrawerapplication" />
+            <option value="$PROJECT_DIR$/runtimepermissionapplication" />
+            <option value="$PROJECT_DIR$/shareelementtransitionapp" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

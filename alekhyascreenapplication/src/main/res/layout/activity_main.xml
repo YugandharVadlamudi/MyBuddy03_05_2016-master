@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.compindia.alekhyascreenapplication.MainActivity">
+
+    <android.support.v7.widget.Toolbar
+        android:id="@+id/tb_main"
+        android:layout_width="match_parent"
+        android:layout_height="?android:attr/actionBarSize"
+        android:background="@color/background_toolbar"
+        >
+        <!--
+        here custom layout can be prepared
+        -->
+    </android.support.v7.widget.Toolbar>
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:scaleType="fitXY"
+        android:src="@drawable/ic_screen_car"
+        />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <TextView
+                android:id="@+id/tv_bookno"
+                android:layout_width="85dp"
+                android:layout_height="wrap_content"
+                android:text="Booking no"
+                android:textStyle="bold"
+                />
+
+            <TextView
+                android:id="@+id/tv_bookno_content"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Booking............................................................................................................................................................... "
+                />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <TextView
+                android:id="@+id/tv_from"
+                android:layout_width="85dp"
+                android:layout_height="wrap_content"
+                android:text="From"
+                android:textStyle="bold"
+                />
+
+            <TextView
+                android:id="@+id/tv_from_content"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="From "
+                />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <TextView
+                android:id="@+id/tv_to"
+                android:layout_width="85dp"
+                android:layout_height="wrap_content"
+                android:text="To"
+                android:textStyle="bold"
+                />
+
+            <TextView
+                android:id="@+id/tv_to_content"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Some Description "
+                />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <TextView
+                android:id="@+id/tv_datetime"
+                android:layout_width="85dp"
+                android:layout_height="wrap_content"
+                android:text="Date &amp; Time"
+                android:textStyle="bold"
+                />
+
+            <TextView
+                android:id="@+id/tv_datetime_content"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Time Description "
+                />
+        </LinearLayout>
+    </LinearLayout>
+</LinearLayout>

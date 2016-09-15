@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">My apps</string>
+    <string name="title_toolbar">My apps</string>
+    <string name="hamburg">&#xf0c9;</string>
+    <string name="youtube">&#xf16a;</string>
+    <string name="Tab_One">Installed</string>
+    <string name="Tab_Two">All</string>
+    <string name="shareelement_name">name</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hello_fragment">Fragment with Tabs</string>
+    <string-array name="TabNames">
+        <item>Installed</item>
+        <item>All</item>
+    </string-array>
+</resources>

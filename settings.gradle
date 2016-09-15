@@ -1,0 +1,1 @@
+include ':app', ':runtimepermissionapplication', ':customtitleapplication', ':navigationdrawerapplication', ':clientapp', ':exoplayerapp', ':googlemusicplayerapp', ':alekhyascreenapplication', ':shareelementtransitionapp'

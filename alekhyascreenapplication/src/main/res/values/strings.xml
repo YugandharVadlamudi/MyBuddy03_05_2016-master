@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AlekhyaScreen Application</string>
+    <string name="tv_bookingno">Booking no</string>
+    <string name="tv_from">From</string>
+    <string name="tv_to">To</string>
+    <string name="tv_dateandtime">Date &amp; Time</string>
+    <string name="tv_maxpass">Max Pas\'</string>
+    <string name="tv_rewardprogram">Reward Program</string>
+    <string name="tv_savetrip">Save trip as favourit</string>
+</resources>

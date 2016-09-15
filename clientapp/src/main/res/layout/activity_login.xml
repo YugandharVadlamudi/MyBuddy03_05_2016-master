@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context=".LoginActivity">
+
+    <ImageView
+        android:id="@+id/iv_login_logo"
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:scaleType="fitXY"
+        />
+    <LinearLayout
+        android:orientation="vertical"
+        android:id="@+id/ll_signupsignin_signin"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        >
+            <EditText
+                android:id="@+id/et_signupsingin_username"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="@string/hint_signupsignin_email"
+                android:singleLine="true"
+                android:drawableLeft="@drawable/ic_email_48"
+                android:background="@drawable/editborder"
+                android:layout_marginTop="@dimen/margintop_password"
+                />
+            <EditText
+                android:id="@+id/et_signupsingin_password"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="@string/hint_signupsignin_password"
+                android:singleLine="true"
+                android:inputType="textPassword"
+                android:drawableLeft="@drawable/ic_password_48"
+                android:background="@drawable/editborder"
+                android:layout_marginTop="@dimen/margintop_password"
+                />
+            <Button
+                android:id="@+id/bt_singupsignin_signin"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/signupsignin_signin"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginTop="@dimen/margintop_password"
+                />
+            <Button
+                android:id="@+id/bt_signupsignin_singup"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/signupsignin_singup"
+                android:layout_gravity="center_horizontal"
+                />
+
+    </LinearLayout>
+
+</LinearLayout>

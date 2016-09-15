@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ShareElementTransitionApp</string>
+    <string name="transition_name">transitionName</string>
+</resources>

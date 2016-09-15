@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Post Event</string>
+    <string name="signupsignin_signin">Sign In</string>
+    <string name="hint_signupsignin_email">Email</string>
+    <string name="hint_signupsignin_password">Password</string>
+    <string name="signupsignin_singup">Sign Up</string>
+    <string name="ti_signup_freeregistration">Free Registration</string>
+    <string name="ti_signup_paidregistration">Paid Registration</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment_one">Hello blank fragment one</string>
+    <string name="hello_blank_fragment_two">Hello blank fragment two</string>
+    <string name="hint_freesignin_email">Enter Email id</string>
+    <string name="hint_freesignin_password">Password</string>
+    <string name="hint_paidsignup_email">Enter Email</string>
+    <string name="hint_paidsignup_password">Enter Password</string>
+    <string name="bt_paidsignup_paypal">Pay pal registration</string>
+    <string name="bt_paidsignup_registration">Registration</string>
+    <string name="bt_freesignup_registration">Registration</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_aboutus">About Us</string>
+    <string name="menu_events">Events</string>
+    <string name="menu_logout">LogOut</string>
+    <string-array name="Tab_names">
+        <item>Free Registration</item>
+        <item>Paid Registration</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hence it is that is almost a definition of a gentleman to say he is one who never inflicts pain. This description is both refined and, as far as it goes, accurate. He is mainly occupied in merely removing the obstacles which hinder the free and unembarrassed action of those about him; and he concurs with their movements rather than takes the initiative himself. His benefits may be considered a parallel to what are called comforts or conveniences in arrangements of a personal nature, like an easy chair or a good fire, which do their part in dispelling cold and fatigue, though nature provides both means of rest and animal heat without them. -	J.E. Newman.
+
+This is a paragraph from Cardinal Newman\’s famous description of a Gentleman in this The idea of a University. Notice that the paragraph is confined to one point in the character of a gentleman, which is clearly stated in the first, or topical sentence viz., that he is one who never inflicts pain. The rest of the paragraph is simply a development and illustration of the topical sentence. And the concluding sentence drives home the statement of the subject with its similies of the easy chair and the good fire.
+ </string>
+    <string name="hint_freesignin_name">Enter Name</string>
+    <string name="hint_freesignin_phonenumber">Enter Phone Number</string>
+    <string name="hint_freesignin_confirmpassword">Confirm Password</string>
+    <string name="hint_paidsignup_name">Enter Name</string>
+    <string name="hint_paidsignup_phonenumber">Enter Phone Number</string>
+    <string name="hint_paidsignup_confirmpassword">Confirm Password</string>
+</resources>

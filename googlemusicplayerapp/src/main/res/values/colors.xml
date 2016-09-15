@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <!--<color name="colorPrimaryDark">#303F9F</color>-->
+    <color name="colorPrimaryDark">#456A25</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="toolbar">#689F38</color>
+    <color name="toolbartitle">#F8FAF6</color>
+    <color name="toolbarsearchcolor">#F8FAF6</color>
+    <color name="tabindicator">#F8FAF6</color>
+    <color name="tabSelectText">#F8FAF6</color>
+    <color name="tabUnSelectText">#B0CC96</color>
+</resources>
